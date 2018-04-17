@@ -2,7 +2,7 @@
 
 <p><b>La-Layout é uma série de plugins que vou lançar para facilitar a aplicação de templates no laravel utilizando blade. Eu utilizo e facilita na troca de layout quando necessário, bastanto atualizar o plugin ou lançando outra release. Mesmo que sua aplicação utilize o angular, o blade estará disponibilizado como default de forma a acelerar o desenvolvimento.</b></p>
 
-<p>A ideia deste plugin é simples e eficaz. Ao instalar em seus clientes a versão escolhida, para atualização do layout das alicações, basta uma atualização do plugin ou releases. COm um simples comando composer, toda o layout da aplicação é atualizado como num passe de mágica.</p>
+<p>A ideia deste plugin é simples e eficaz. Ao instalar em seus clientes, a versão escolhida para atualização do layout das alicações, basta uma atualização do plugin ou releases e com um simples comando composer, todo o layout é atualizado como num passe de mágica.</p>
 
 <p>Nesta versão, estou disponibilizando o layout free edmin, o que costumo usar no default para blade-backend, até me restar tempo para acabar os meus layouts (além de programador sou designer). O acrônimo <b>b (lab)</b> se refere ao backend. Para o front <b>f (laf).</b></p>
 
