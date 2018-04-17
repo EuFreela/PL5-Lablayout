@@ -21,10 +21,7 @@ Lameck\Lablayout\LablayoutServiceProvider::class,
 composer dumpautoload
 </pre>
 <pre>
-php artisan vendor:publish Lameck\Lablayout\LablayoutServiceProvider
-ou
-php artisan vendor:publish
-selecione o indicador Lameck\Lablayout\LablayoutServiceProvider
+php artisan vendor:publish --tag=layout
 </pre>
 
 <hr>
