@@ -48,4 +48,4 @@ Route::get("/",function(){
 <p>Ao clicar no btn entrar (página de login), esse erro ocorrerá</p>
 <img src="https://s18.postimg.cc/876qodfeh/lablayout.png" heigth="700" width="600">
 
-<p>Isso acontece devido a variável $errors, localizada na blade login, depende do retorno da validação do Request que deverá ser enviado por controller ou, dependendo de seu estilo de programar, no router. Em resumo, essa variável é dependente do request.</p>
+<p>Isso acontece devido a variável $errors, localizada na blade login, depende do retorno da validação do Request que deverá ser enviado por controller ou, dependendo de seu estilo de programar, no router. Em resumo, essa variável é dependente do request. Eu já deixei o layout preparado para receber as implementações seguintes, basta a customização a seu gosto.</p>
