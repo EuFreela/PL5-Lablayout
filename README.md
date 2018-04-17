@@ -3,7 +3,7 @@
 <p><b>La-Layout é uma série de plugins que vou lançar para facilitar a aplicação de templates no laravel utilizando blade. Eu utilizo e facilita na troca de layout quando necessário, bastanto atualizar o plugin ou lançando outra release. Mesmo que sua aplicação utilize o angular, o blade estará disponibilizado como default de forma a acelerar o desenvolvimento.</b></p>
 <p>Nesta versão, estou disponibilizando o layout free edmin, o que costumo usar no default para blade-backend, até me restar tempo para acabar os meus layouts (além de programador sou designer). O acrônimo <b>b (lab)</b> se refere ao backend. Para o front <b>f (laf)</b></p>
 
-<p>Conforme vou progredindo com a implementaçãod e alguns projetos vou disponibilizando algumas as versões seguintes. Nesta versão esta implementado até a backend. Resta dividir as seções do html5 em outras partes funcionais que o template oferece.</p>
+<p>Conforme vou progredindo com a implementação de alguns projetos vou disponibilizando algumas versões consequentes. Nesta versão esta implementado até a backend. Resta dividir as seções do html5 em outras partes funcionais que o template oferece.</p>
 
 <p>Os PCK aqui desenvolvidos tem o objetivo de disseminar a cultura <b>clean code</b></p>
 
